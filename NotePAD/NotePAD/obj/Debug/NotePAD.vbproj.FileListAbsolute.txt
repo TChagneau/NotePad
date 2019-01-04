@@ -1,0 +1,14 @@
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\bin\Debug\NotePAD.exe.config
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\bin\Debug\NotePAD.exe
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\bin\Debug\NotePAD.pdb
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\bin\Debug\NotePAD.xml
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.vbprojAssemblyReference.cache
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.Form1.resources
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.Resources.resources
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.vbproj.GenerateResource.cache
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.vbproj.CoreCompileInputs.cache
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.exe
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.xml
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.pdb
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.fenetre_principale.resources
+C:\Users\Chagneau Thomas\Documents\programmation\vbnet\NotePAD\NotePAD\obj\Debug\NotePAD.Admin.resources
